@@ -6,7 +6,7 @@ https://openweathermap.org/api/one-call-api
 
 The project was uploaded to GitHub at the following repository: https://github.com/Milfred08/Weather-Dashboard
 
-You can access the deployed application with the GitHup Pages link:
+You can access the deployed application with the GitHup Pages link: https://milfred08.github.io/Weather-Dashboard/
 
 ## Description
 The application is a weather dashboard runs in the browser and features dynamically updated HTML and CSS.  It utilizes Third-party APIs from OpenWeather.com to access current and forecasted weather information. The app utilizes APIs to make requests with specific parameters to a URL. 
